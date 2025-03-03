@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87ee20,100:194409&height=120&text=Hello!!&animation=blink&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 4차 산업 시대에서 요구하는 인재로의 걸음 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 저는 대학에서 부동산학을 전공하던 중, 4차 산업 시대에서 요구하는 인재로 성장하는 것을 목표로 설정했습니다. 이를 실현하기 위한 첫 단계로 초경량비행장치조종자(드론) 자격증을 취득하며 첨단 기술에 대한 첫걸음을 내디뎠습니다.</li></li>  그 후, IT 전문가로서의 기반을 다지기 위해 6개월간 하루 8시간씩 집중적으로 학습하며 다양한 기술을 습득했습니다. 특히, Java, JavaScript, jQuery, JSP, MySQL, CSS, HTML, Spring Framework 등 현대 웹 개발의 핵심 기술들을 익혔습니다. 이를 통해 기초 개발 능력을 다졌을 뿐만 아니라 실무적인 프로젝트 경험도 쌓을 수 있었습니다. </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋 About Me </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> Java/Spring 기반 웹 개발자를 꿈꾸는 김가원입니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
