@@ -1,5 +1,9 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87ee20,100:194409&height=120&text=Welcome+to+KimGaWon+Github!!&animation=blink&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87ee20,100:194409&height=120&text=Welcome+to+KimGaWon+GitHub!!&animation=blink&fontColor=ffffff&fontSize=50" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📌 GitHub 관련 안내 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> GitHub 아이디 생성 당시 오타로 인해 Kim이 아닌 Kin으로 등록되었습니다. 너그러운 마음으로 참고 부탁드립니다!😊</div> 
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋 Hi, I'm Gawon Kim! </h2>  
@@ -28,6 +32,10 @@
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
           </div>
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📫 Contact Me </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 📧 email: [skdhal500@gmail.com] </div> 
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=KinGaWon&bg_color=60,81bb3a,00000000&title_color=1cf80d&text_color=1cf80d"
