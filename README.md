@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87ee20,100:194409&height=120&text=Welcome+to+KimGaWon+Github!!&animation=blink&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋 안녕하세요! 김가원입니다. </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋 Hi, I'm Gawon Kim! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 🚀Java 웹 개발자를 꿈꾸며 성장하고 있는 개발자입니다. <br/> 💡 깨끗하고 효율적인 코드로 문제를 해결하는 것을 좋아합니다. <br/> 📚 끊임없이 배우고 성장하는 개발자가 되기 위해 열심히 노력하고 있습니다.</div> 
     </div>
     <div style="text-align: left;">
