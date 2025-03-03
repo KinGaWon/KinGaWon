@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87ee20,100:194409&height=120&text=Welcome+to+KimGaWon+GitHub!!&animation=blink&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87ee20,100:194409&height=120&text=Welcome+to+KimGaWon+Github!!&animation=blink&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋 About Me </h2>  
